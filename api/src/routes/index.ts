@@ -1,0 +1,6 @@
+export { router as authRoutes } from './authRoutes'
+export { router as categoriesRoutes } from './categoriesRoutes'
+export { router as productsRoutes } from './productsRoutes'
+export { router as usersRoutes } from './userRoutes'
+export { router as commentsRoutes } from './commentsRoutes'
+export { router as subCategoriesRoutes } from './subCategoriesRoutes'
